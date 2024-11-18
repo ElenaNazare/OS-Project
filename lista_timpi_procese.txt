@@ -1,0 +1,13 @@
+proc1   6s
+proc2   3s
+proc3   2s
+proc4   1s
+proc5   5s
+proc6   4s
+proc7   1s 
+proc8   3s
+proc9   7s
+proc10  3s
+proc11  2s
+proc12  4s
+proc13  1s
